@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="Gus-gif" height="120" width="150" src="https://media.tenor.com/drzSGxNJG3sAAAAi/cbse-tayari.gif">
+  <img align="right" alt="CORI-gif" height="120" width="150" src="https://media.tenor.com/drzSGxNJG3sAAAAi/cbse-tayari.gif">
 </div>
 
 ## Hello, i'm Corina 😁😁😁
@@ -20,6 +20,7 @@
   <img align="center" alt="Cori-Postgre" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Cori-Qgis" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
   <img align="center" alt="Cori-SQL" height="40" width="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="Cori-AWS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ##
