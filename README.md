@@ -20,7 +20,7 @@
   <img align="center" alt="Cori-Postgre" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Cori-Qgis" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
   <img align="center" alt="Cori-SQL" height="40" width="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
-  <img align="center" alt="Cori-AWS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Cori-AWS" height="40" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ##
