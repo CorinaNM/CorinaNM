@@ -19,7 +19,7 @@
   <img align="center" alt="Cori-Tableau" height="40" width="80" src="https://assets.blogs.bsu.edu/wp-content/uploads/sites/38/2023/02/24133338/Tableau-Logo-1024x576.png">
   <img align="center" alt="Cori-Postgre" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Cori-Qgis" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
-  <img align="center" alt="Cori-R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Cori-SQL" height="40" width="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
 
 ##
