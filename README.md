@@ -2,7 +2,7 @@
   <img align="right" alt="Gus-gif" height="120" width="150" src="https://media.tenor.com/drzSGxNJG3sAAAAi/cbse-tayari.gif">
 </div>
 
-### Hello, i'm Corina 😁😁😁
+## Hello, i'm Corina 😁😁😁
 
 - 🌳 Forestry engineer
 - 👩‍💻 Spatial Data Analyst
