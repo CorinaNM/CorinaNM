@@ -4,9 +4,8 @@
 
 ## Hello, i'm Corina 😁😁😁
 
-- 🌳 Forestry engineer
-- 👩‍💻 Spatial Data Analyst
-- 👩‍🎓 MSc student under the Data Science for Ecology and Remote Sensing research line
+- 👩‍💻 Data Science
+- 👩‍🎓 MSc student under the Data Science research line
 - 🛰 I'm working on Advanced Statistics, remote sensing and GIS 
 
 
